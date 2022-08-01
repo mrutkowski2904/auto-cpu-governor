@@ -7,7 +7,7 @@ Requirements:
 * cpupower
 * tlp
 * bash
-* systemd (optional)
+* systemd
 
 ## Packages
 Script is packaged for following distributions:
