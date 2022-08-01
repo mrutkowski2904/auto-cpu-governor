@@ -1,0 +1,8 @@
+[Unit]
+Description=script for changing CPU governor automatically
+
+[Service]
+ExecStart=/bin/bash /usr/bin/auto-cpu-governor.sh
+
+[Install]
+WantedBy=multi-user.target
